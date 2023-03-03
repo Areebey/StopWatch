@@ -16,6 +16,11 @@
     color: white;
     font-size: 4rem;
 }
+h1{
+    color: white;
+    font:500 4rem sans-serif;
+    margin-bottom: 100px;
+}
 
 button{
     padding: 20px;
